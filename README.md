@@ -14,11 +14,11 @@ This pipeline analyzes **soft power effectiveness** by examining how cultural in
 
 ##  Key Features
 
-- ** AI-Powered Categorization**: Automatically sorts 1000+ data points into Infrastructure, Assets, and Outcomes
-- ** Advanced Analytics**: Weighted scoring, correlation analysis, and impact measurement  
-- ** Professional Reports**: Multi-tab Excel outputs with color-coded insights
-- ** High Performance**: Async processing handles large datasets in ~4 minutes
-- ** Audit Trail**: Complete traceability of all AI decisions and calculations
+- **AI-Powered Categorization**: Automatically sorts 1000+ data points into Infrastructure, Assets, and Outcomes
+- **Advanced Analytics**: Weighted scoring, correlation analysis, and impact measurement  
+- **Professional Reports**: Multi-tab Excel outputs with color-coded insights
+- **High Performance**: Async processing handles large datasets in ~4 minutes
+- **Audit Trail**: Complete traceability of all AI decisions and calculations
 
 ## 🚀 Quick Start
 
