@@ -1,4 +1,4 @@
-# 🌍 Soft Power Analysis Pipeline
+#  Soft Power Analysis Pipeline
 
 *An AI-powered pipeline for analyzing relationships between cultural investments and international reputation outcomes across countries*
 
@@ -6,19 +6,19 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green.svg)](https://openai.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🎯 What This Does
+##  What This Does
 
 This pipeline analyzes **soft power effectiveness** by examining how cultural investments (infrastructure & assets) correlate with international reputation outcomes. It processes country data through a sophisticated AI-powered workflow to answer the critical question: *"Which soft power investments actually improve international standing?"*
 
 **Key Insight Example**: The analysis revealed that high cultural investment doesn't always guarantee better outcomes - some countries with extensive programs ranked lower on international indices, suggesting that *strategy matters more than scale*.
 
-## ✨ Key Features
+##  Key Features
 
-- **🤖 AI-Powered Categorization**: Automatically sorts 1000+ data points into Infrastructure, Assets, and Outcomes
-- **📊 Advanced Analytics**: Weighted scoring, correlation analysis, and impact measurement  
-- **🎨 Professional Reports**: Multi-tab Excel outputs with color-coded insights
-- **⚡ High Performance**: Async processing handles large datasets in ~4 minutes
-- **🔍 Audit Trail**: Complete traceability of all AI decisions and calculations
+- ** AI-Powered Categorization**: Automatically sorts 1000+ data points into Infrastructure, Assets, and Outcomes
+- ** Advanced Analytics**: Weighted scoring, correlation analysis, and impact measurement  
+- ** Professional Reports**: Multi-tab Excel outputs with color-coded insights
+- ** High Performance**: Async processing handles large datasets in ~4 minutes
+- ** Audit Trail**: Complete traceability of all AI decisions and calculations
 
 ## 🚀 Quick Start
 
