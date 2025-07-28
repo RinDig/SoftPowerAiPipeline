@@ -1,0 +1,53 @@
+{
+  "category_weights": {
+    "outcome": 0.5,
+    "infrastructure": 0.3,
+    "assets": 0.2
+  },
+  "item_weights": {
+    "infrastructure": {
+      "lead_ministry": 2.0,
+      "ministry": 2.0,
+      "budget": 3.0,
+      "annual_funding": 2.5,
+      "organizational_structure": 1.5,
+      "policy": 2.0,
+      "strategy": 2.0
+    },
+    "assets": {
+      "confucius_institute": 2.5,
+      "british_council": 2.5,
+      "goethe_institut": 2.5,
+      "alliance_francaise": 2.5,
+      "japan_foundation": 2.5,
+      "cultural_center": 1.5,
+      "language_program": 2.0,
+      "exchange_program": 2.0,
+      "scholarship": 2.0,
+      "broadcasting": 2.0
+    }
+  },
+  "country_multipliers": {
+    "China": {
+      "confucius_institute": 1.5,
+      "belt_and_road": 2.0
+    },
+    "UK": {
+      "british_council": 1.5,
+      "bbc": 1.3
+    },
+    "USA": {
+      "fulbright": 1.5,
+      "usaid": 1.3,
+      "voice_of_america": 1.3
+    },
+    "Germany": {
+      "goethe_institut": 1.5,
+      "daad": 1.3
+    },
+    "Japan": {
+      "japan_foundation": 1.5,
+      "japan_house": 1.3
+    }
+  }
+}
