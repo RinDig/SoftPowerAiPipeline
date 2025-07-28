@@ -1,4 +1,5 @@
 #  Soft Power Analysis Pipeline
+<img width="1840" height="563" alt="image" src="https://github.com/user-attachments/assets/04e150f6-a948-4ffe-8b0a-65dda50c4fa8" />
 
 *An AI-powered pipeline for analyzing relationships between cultural investments and international reputation outcomes across countries*
 
