@@ -21,9 +21,11 @@ This pipeline analyzes **soft power effectiveness** by examining how cultural in
 
 ## 🚀 Quick Start
 
+Requires ICR Research Data Tables of 2024 Country Analysis
+
 ### 1. Install & Setup
 ```bash
-git clone [repository-url]
+git clone [[repository-url](https://github.com/RinDig/SoftPowerAiPipeline)]
 cd soft-power-pipeline
 pip install -r requirements.txt
 
